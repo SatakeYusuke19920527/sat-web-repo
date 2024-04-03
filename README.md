@@ -6,4 +6,4 @@
   - Terraformのソースコード
 
 ## アーキテクチャ
-![アーキテクチャ]('./images/ver1.png')
+![アーキテクチャ](./images/ver1.png)
