@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# terraform
+sat-web-app-iac/environment/.terraform
+sat-web-app-iac/environment/.terraform.lock.hcl
+sat-web-app-iac/environment/terraform.tfstate.backup
