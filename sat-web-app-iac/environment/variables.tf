@@ -8,6 +8,7 @@ variable "rg_location" {
 
 variable "swa_name" {
   type = string
+  default = "eastasia"
 }
 
 variable "swa_location" {
